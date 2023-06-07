@@ -1,4 +1,4 @@
-# Deep-Edge-Detection---RCF-Implementation
+# Deep-Edge-Detection-RCF-Implementation
 
 This project is an implementation of the deep edge detection method known as Richer Convolutional Features for Edge Detection by Yun Liu, Ming-Ming Cheng, Xiaowei Hu, Jia-Wang Bian, Le Zhang, Xiang Bai, and Jinhui Tang
 

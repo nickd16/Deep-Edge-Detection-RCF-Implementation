@@ -4,7 +4,7 @@ This project is an implementation of the deep edge detection method known as Ric
 
 To read the original paper and see other implementations, visit https://paperswithcode.com/paper/richer-convolutional-features-for-edge
 
-Below are examples from the trained model. The images from from the BSDS500 dataset (link at the bottom). 
+Below are examples from the trained model. The images are from the BSDS500 dataset (link at the bottom). 
 
 LEFT IMAGE: Real Image
 
